@@ -41,7 +41,7 @@
 :root {
 	--bgImage: url(https://img5.goodfon.com/original/2560x1440/9/24/astronaut-propast-noch-nebo-planeta-fantastika-skafandr.jpg);
 
-	--HomeButtonImg: url(https://raw.githack.com/KaosBob/Custom-Theme/master/import/homeBtn.png);
+	--HomeButtonImg: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/HomeBtn.png);
 
 	--brightness: 0.4;
 
@@ -2480,7 +2480,7 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {
 }
 
 .wordmark-2iDDfm svg {
-	background-image: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/wordMark.png?token=As4J54jkgnG-ckAYR_2v1SRVUBVadMZ2ks5cTGQ9wA%3D%3D);
+	background-image: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/wordMark.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -2494,31 +2494,31 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/account.png?token=As4J5-u4xBkthUpaQIBo9MmtGDWFogceks5cTGRnwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/account.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/privacy.png?token=As4J598E5kdUZB-l-CQYe-vZuisASGSlks5cTGSjwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/privacy.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/apps.png?token=As4J5wilyZsseDm5jliIm8kxwULoSxpeks5cTGS5wA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/apps.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/connections.png?token=As4J57jBY0Ixz3tRJDwAAj_HiZ-GZZU9ks5cTGTUwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/connections.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(6)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(6)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/billing.png?token=As4J5_fSDi7Kpm6GmCpgb0zgFK2_p3b3ks5cTGTlwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/billing.png)
 		center;
 }
 
@@ -2526,85 +2526,85 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(7)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/nitro.png?token=As4J58Ll2gnjovf_lGK2HOQkX4oVN_zZks5cTGULwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/nitro.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/hype.png?token=As4J5zwzDKxdNQpXsanGwE5FejCjPwYtks5cTGUcwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/hype.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(12)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(12)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/voice.png?token=As4J54jtk9Dm0e3WN2jhE3uBBu6A84uqks5cTGUvwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/voice.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(13)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(13)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/overlay.png?token=As4J54cEzFq2Q2Xs7bXqvHwxYNFQB7U8ks5cTGVBwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/overlay.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/notifications.png?token=As4J5xYptmph0dVpqhbC9I0vjqDVd6Opks5cTGVVwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/notifications.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(15)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(15)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/keybinds.png?token=As4J54CGd5mtcGbRrapGlQjUz8bGa_m6ks5cTGVowA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/keybinds.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/joystick.png?token=As4J5z5MsgywfK5c2LB15tPcvMcWfI2wks5cTGV6wA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/joystick.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/gamepad.png?token=As4J5zbycG0N5Z3TORY_ndZeI8JyKGtWks5cTGWowA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/gamepad.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/text.png?token=As4J55fUNK5kI4WiUn1imMJOxZBi7EHMks5cTGXCwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/text.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/eye.png?token=As4J5-qa6KWSDvDtGs6c6Ro734i2A4fSks5cTGXSwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/eye.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/twitch.png?token=As4J5xwAeuVJT9Jqswf6VUSoHJben4pdks5cTGXrwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/twitch.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/language.png?token=As4J51rM1eDpPRSBujqRgYrZDnQbqpy7ks5cTGX9wA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/language.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(22)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(22)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/windows.png?token=As4J53pPdXGHj96P84KkJUh2qpalHQDfks5cTGYqwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/windows.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(24)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(24)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/changelog.png?token=As4J51DzZ7-fu0tcl0v4HXLNhOGrGqExks5cTGY6wA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/changelog.png)
 		center;
 }
 
@@ -2616,7 +2616,7 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {
 	.side-8zPYf6
 	#bd-settings-sidebar
 	.ui-tab-bar-item:nth-child(3)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/core.png?token=As4J53eqM-4GOmn3NZOlFI2fCn0aKXpCks5cTGZNwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/core.png)
 		center;
 }
 
@@ -2628,7 +2628,7 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {
 	.side-8zPYf6
 	#bd-settings-sidebar
 	.ui-tab-bar-item:nth-child(4)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/bandages.png?token=As4J50Tyg5XK8IUtyFEMn5ZiwvokuefHks5cTGZdwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/bandages.png)
 		center;
 }
 
@@ -2640,7 +2640,7 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {
 	.side-8zPYf6
 	#bd-settings-sidebar
 	.ui-tab-bar-item:nth-child(5)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/emote.png?token=As4J518f8qoXSFn6hG1p8_zNAX3QTuNUks5cTGZvwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/emote.png)
 		center;
 }
 
@@ -2652,7 +2652,7 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {
 	.side-8zPYf6
 	#bd-settings-sidebar
 	.ui-tab-bar-item:nth-child(6)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/css.png?token=As4J52rQE3ll0yPSeVO40lx2A-x4YZaIks5cTGaBwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/css.png)
 		center;
 }
 
@@ -2664,7 +2664,7 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {
 	.side-8zPYf6
 	#bd-settings-sidebar
 	.ui-tab-bar-item:nth-child(7)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/plugins.png?token=As4J5_IL8On-VIR68rsvXHoR1JBqQ_01ks5cTGaXwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/plugins.png)
 		center;
 }
 
@@ -2676,13 +2676,13 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {
 	.side-8zPYf6
 	#bd-settings-sidebar
 	.ui-tab-bar-item:nth-child(8)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/theme.png?token=As4J54xdUpAmyovTIzoa5B5Yhp8_dlOgks5cTGapwA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/theme.png)
 		center;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(25)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before {
-	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/logout.png?token=As4J56J_7Q8PPiwvioM7-UBA1gc4ftHGks5cTGa7wA%3D%3D)
+	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/logout.png)
 		center;
 }
 
@@ -2794,4 +2794,3 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {
 	overflow: hidden;
 	overflow-y: scroll;
 }
-
