@@ -1666,3 +1666,8 @@ div.unread-mentions-indicator-bottom {
 	top: 50%;
 	transform: translateY(-50%);
 }
+
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item,
+.side-8zPYf6 .item-PXvHYJ {
+	padding-left: 40px;
+}
