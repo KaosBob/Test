@@ -1464,31 +1464,31 @@ div.unread-mentions-indicator-bottom {
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/account.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/privacy.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/apps.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/connections.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(6)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(6)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/billing.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(7)::before,
@@ -1496,85 +1496,85 @@ div.unread-mentions-indicator-bottom {
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(7)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/nitro.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/hype.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(12)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(12)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/voice.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(13)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(13)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/overlay.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/notifications.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(15)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(15)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/keybinds.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/joystick.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/gamepad.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/text.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/eye.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/twitch.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/language.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(22)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(22)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/windows.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(24)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(24)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/changelog.png)
-		center;
+		center !important;
 }
 
 .platform-osx
@@ -1586,7 +1586,7 @@ div.unread-mentions-indicator-bottom {
 	#bd-settings-sidebar
 	.ui-tab-bar-item:nth-child(3)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/core.png)
-		center;
+		center !important;
 }
 
 .platform-osx
@@ -1598,7 +1598,7 @@ div.unread-mentions-indicator-bottom {
 	#bd-settings-sidebar
 	.ui-tab-bar-item:nth-child(4)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/bandages.png)
-		center;
+		center !important;
 }
 
 .platform-osx
@@ -1610,7 +1610,7 @@ div.unread-mentions-indicator-bottom {
 	#bd-settings-sidebar
 	.ui-tab-bar-item:nth-child(5)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/emote.png)
-		center;
+		center !important;
 }
 
 .platform-osx
@@ -1622,7 +1622,7 @@ div.unread-mentions-indicator-bottom {
 	#bd-settings-sidebar
 	.ui-tab-bar-item:nth-child(6)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/css.png)
-		center;
+		center !important;
 }
 
 .platform-osx
@@ -1634,7 +1634,7 @@ div.unread-mentions-indicator-bottom {
 	#bd-settings-sidebar
 	.ui-tab-bar-item:nth-child(7)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/plugins.png)
-		center;
+		center !important;
 }
 
 .platform-osx
@@ -1646,11 +1646,11 @@ div.unread-mentions-indicator-bottom {
 	#bd-settings-sidebar
 	.ui-tab-bar-item:nth-child(8)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/theme.png)
-		center;
+		center !important;
 }
 
 .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(25)::before,
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before {
 	background: url(https://raw.githubusercontent.com/KaosBob/Custom-Theme/master/import/icons/logout.png)
-		center;
+		center !important;
 }
