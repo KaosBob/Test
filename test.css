@@ -132,10 +132,10 @@
 	padding-left: 0;
 	align-content: flex-start;
 }
-/* .wrapper-3NnKdC .scroller-1Bvpku > div:not(.listItem-GuPuDH) > div {
+.wrapper-3NnKdC .scroller-1Bvpku > div:not(.listItem-GuPuDH) > div {
 	width: 50px;
 	margin-left: 10px;
-} */
+}
 .listItem-GuPuDH {
 	width: auto;
 	margin-left: 0;
