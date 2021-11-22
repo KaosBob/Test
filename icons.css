@@ -1,9 +1,6 @@
-/* ICONS START */
-
 /* https://codedotspectra.github.io/themes/core/settings-icons.css */
 
 /* sidebar creation */
-
 .sidebar-CFHs9e
 	.side-8zPYf6
 	#bd-settings-sidebar
@@ -112,7 +109,6 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 .item-PXvHYJ {
 }
 
 /* better discord settings icons */
-
 .side-8zPYf6 .item-PXvHYJ[aria-controls="settings-tab"]::before {
 	background-image: url("https://limeshark.dev/img/bdi/bdsettings.png");
 }
@@ -128,5 +124,3 @@ div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 .item-PXvHYJ {
 .side-8zPYf6 .item-PXvHYJ[aria-controls="themes-tab"]::before {
 	background-image: url("https://limeshark.dev/img/bdi/theme.png");
 }
-
-/* ICONS END */
