@@ -126,12 +126,12 @@
 .scrollerWrap-1IAIlv {
 	width: calc(var(--server-listing-width) + 6px);
 }
-/* .wrapper-3NnKdC .scroller-1Bvpku {
+.wrapper-3NnKdC .scroller-1Bvpku {
 	display: flex;
 	flex-flow: row wrap;
 	padding-left: 0;
 	align-content: flex-start;
-} */
+}
 /* .wrapper-3NnKdC .scroller-1Bvpku > div:not(.listItem-GuPuDH) > div {
 	width: 50px;
 	margin-left: 10px;
