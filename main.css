@@ -153,10 +153,10 @@
 	outline: none;
 }
 .wrapper-1_HaEi {
-	width: var(--server-listing-width);
+	width: var(72px); /* Remember This FUCKER */
 }
 .scrollerWrap-1IAIlv {
-	width: calc(var(--server-listing-width) + 6px);
+	width: calc(var(72px) + 6px); /* Remember This FUCKER */
 }
 /* .wrapper-1_HaEi .scroller-3X7KbA {
 	display: flex;
